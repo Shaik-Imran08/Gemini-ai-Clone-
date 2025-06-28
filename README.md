@@ -34,5 +34,5 @@
 |--------------|----------------|------------------------|----------------|
 | React / Next.js / Tailwind | Node.js / Express.js | OpenAI / Gemini-style LLM | MongoDB / Firebase |
 
-[Click to Run the App](https://medical-diagnosis-using-ai-43ruyveuykzjgudq2d8kdc.streamlit.app/)
+[Click to Run the App](https://chatbot-clone-jk.netlify.app/)
 
